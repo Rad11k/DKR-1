@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671974740 source:c:\users\nikit\desktop\dkr1\main.c
+	<stdio.h>
+	<stdlib.h>
+
